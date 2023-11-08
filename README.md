@@ -1,2 +1,2 @@
-# JhipsterIntroduction
+# jHipsterIntroduction
 Treining project in jHipster
